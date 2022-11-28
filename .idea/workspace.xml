@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="67d11a39-30bb-4205-b42a-165e05fb7bfb" name="Changes" comment="Init">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/data/DanhSachDocGia.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/data/DanhSachNhanVien.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/data/List_DocGia.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/data/List_DocGia.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/data/List_NhanVien.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/data/List_NhanVien.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/data/List_NhanVien_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/data/bestrandoms.com_address_phone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/data/bestrandoms.com_address_phone_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/data/bestrandoms.com_address_phone_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/data/help-sites.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/data/regtime_borntime_reorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/data/regtime_borntime_reorder_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/data/regtime_borntime_reorder_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/data/xam l bay.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/quanlythuvien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/Polyfill/KhoangThoiGian$formatter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/Polyfill/KhoangThoiGian.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/Polyfill/PFArray$TaggedSpliterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/Polyfill/PFArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/Polyfill/PFFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/Polyfill/PFFileReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/Polyfill/PFFileWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/Polyfill/StringHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/Polyfill/ThoiGian.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/AnyId.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Author.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Authors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/CaTruc$CaTrucNgay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/CaTruc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Card.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Cards.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Cashier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Cashiers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/ConNguoi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/DangNhap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/DanhSachDocGia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/DanhSachNhanVien.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/DanhSachTaiLieu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/DanhSachTaiLieuDKMuon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/DanhSachTaiLieuDaMuon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/DanhSachThe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/DocGhiFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/DocGia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Document.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Documents$Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Documents.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/IBatchDataProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/IDataProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Language copy.java.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Language.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Languages.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/LoaiThe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Luong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Management.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/MuonTaiLieu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Newspaper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Ngay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/NgonNgu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/NhaXuatBan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/NhanVien.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/People.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Reader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/Readers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/SachNuocNgoai.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/SachTrongNuoc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/StaffImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/TacGia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/TaiLieu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/ThaoTacFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/The.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/ThongTinTaiLieuMuon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/TraCuuTaiLieu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/ThuVien/TraSach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/main/java/com/doanoop/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/test/java/com/doanoop/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/test/java/com/doanoop/OldTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/src/test/java/com/doanoop/PolyfillTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/target/classes/ThuVien/Language copy.java.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/target/quanlythuvien-0.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/target/surefire-reports/TEST-com.doanoop.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/target/surefire-reports/TEST-com.doanoop.OldTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/target/surefire-reports/TEST-com.doanoop.PolyfillTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/target/surefire-reports/com.doanoop.AppTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/target/surefire-reports/com.doanoop.OldTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bin/target/surefire-reports/com.doanoop.PolyfillTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/DanhSachDocGia.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/DanhSachNhanVien.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/List_DocGia.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/List_DocGia.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/List_NhanVien.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/List_NhanVien.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/List_NhanVien_out.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bestrandoms.com_address_phone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bestrandoms.com_address_phone_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/bestrandoms.com_address_phone_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/help-sites.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/regtime_borntime_reorder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/regtime_borntime_reorder_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/regtime_borntime_reorder_output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/xam l bay.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quanlythuvien.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Polyfill/KhoangThoiGian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Polyfill/PFArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Polyfill/PFFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Polyfill/PFFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Polyfill/PFFileWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Polyfill/StringHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Polyfill/ThoiGian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/ConNguoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/DangNhap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/DanhSachDocGia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/DanhSachNhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/DanhSachTaiLieu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/DanhSachTaiLieuDKMuon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/DanhSachTaiLieuDaMuon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/DanhSachThe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/DocGhiFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/DocGia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/Global.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/Language copy.java.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/LoaiThe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/Luong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/MuonTaiLieu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/Ngay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/NgonNgu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/NhaXuatBan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/NhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/SachNuocNgoai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/SachTrongNuoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/TacGia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/TaiLieu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/ThaoTacFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/The.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/ThongTinTaiLieuMuon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/TraCuuTaiLieu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ThuVien/TraSach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/doanoop/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/doanoop/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/doanoop/OldTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/doanoop/PolyfillTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Polyfill/KhoangThoiGian$formatter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Polyfill/KhoangThoiGian.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Polyfill/PFArray$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Polyfill/PFArray$TaggedSpliterator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Polyfill/PFArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Polyfill/PFFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Polyfill/PFFileReader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Polyfill/PFFileWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Polyfill/StringHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Polyfill/ThoiGian.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/AnyId.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Author.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Authors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Book.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/CaTruc$CaTrucNgay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/CaTruc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Card.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Cards.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Cashier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Cashiers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/ConNguoi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/DangNhap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/DanhSachDocGia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/DanhSachNhanVien.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/DanhSachTaiLieu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/DanhSachTaiLieuDKMuon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/DanhSachTaiLieuDaMuon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/DanhSachThe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/DocGhiFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/DocGia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Document.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Documents$Instance.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Documents$Type.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Documents.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/ForeignBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/ForeignNontranslatedBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/ForeignTranslatedBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Global.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/IBatchDataProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/IDataProcess.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Language copy.java.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Language.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Languages.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/LoaiThe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Luong.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Management.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Manager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/MuonTaiLieu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/NativeBook.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Newspaper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Ngay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/NgonNgu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/NhaXuatBan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/NhanVien.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/People.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Reader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/Readers.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/SachNuocNgoai.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/SachTrongNuoc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/StaffImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/TacGia.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/TaiLieu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/ThaoTacFile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/The.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/ThongTinTaiLieuMuon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/TraCuuTaiLieu.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/ThuVien/TraSach.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/doanoop/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/quanlythuvien-0.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.doanoop.AppTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.doanoop.OldTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.doanoop.PolyfillTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.doanoop.AppTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.doanoop.OldTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.doanoop.PolyfillTest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/doanoop/AppTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/doanoop/OldTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/doanoop/PolyfillTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IAavVu6Q9kBiSz1rrdnJx2hMzo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/ADMIN/Downloads/opencsv-5.7.1.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="67d11a39-30bb-4205-b42a-165e05fb7bfb" name="Changes" comment="" />
+      <created>1669627074555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669627074555</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init" />
+  </component>
+</project>
