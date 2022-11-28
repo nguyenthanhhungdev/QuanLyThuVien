@@ -4,12 +4,12 @@ import Polyfill.ThoiGian;
 
 public abstract class ConNguoi {
     private String hoTen;
-    private Ngay ngaySinh;
+    private ThoiGian ngaySinh;
     private String diaChi;
 
-    public ConNguoi(String hoTen, String ngaySinh, String diaChi) {
+    public ConNguoi(String hoTen, ThoiGian ngaySinh, String diaChi) {
         this.hoTen = hoTen;
-        this.ngaySinh = Ngay.toNgay(ngaySinh);
+        this.ngaySinh = ngaySinh;
         this.diaChi = diaChi;
     }
 
@@ -26,11 +26,11 @@ public abstract class ConNguoi {
         this.hoTen = hoTen;
     }
 
-    public Ngay getNgaySinh() {
+    public ThoiGian getNgaySinh() {
         return ngaySinh;
     }
 
-    public void setNgaySinh(Ngay ngaySinh) {
+    public void setNgaySinh(ThoiGian ngaySinh) {
         this.ngaySinh = ngaySinh;
     }
 
